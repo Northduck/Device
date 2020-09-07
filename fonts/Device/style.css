@@ -1,0 +1,203 @@
+@font-face {
+  font-family: 'Device';
+  src:
+    url('fonts/Device.ttf?z9gmps') format('truetype'),
+    url('fonts/Device.woff?z9gmps') format('woff'),
+    url('fonts/Device.svg?z9gmps#Device') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Device' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cart:before {
+  content: "\e900";
+}
+.icon-checkbox-off:before {
+  content: "\e901";
+}
+.icon-checkbox-on:before {
+  content: "\e902";
+}
+.icon-compare:before {
+  content: "\e903";
+}
+.icon-credit .path1:before {
+  content: "\e904";
+  color: rgb(255, 255, 255);
+}
+.icon-credit .path2:before {
+  content: "\e905";
+  margin-left: -0.830078125em;
+  color: rgb(255, 255, 255);
+}
+.icon-credit .path3:before {
+  content: "\e906";
+  margin-left: -0.830078125em;
+  color: rgb(255, 255, 255);
+}
+.icon-credit .path4:before {
+  content: "\e907";
+  margin-left: -0.830078125em;
+  color: rgb(240, 196, 46);
+}
+.icon-credit .path5:before {
+  content: "\e908";
+  margin-left: -0.830078125em;
+  color: rgb(58, 58, 58);
+}
+.icon-credit .path6:before {
+  content: "\e909";
+  margin-left: -0.830078125em;
+  color: rgb(58, 58, 58);
+}
+.icon-delivery .path1:before {
+  content: "\e90a";
+  color: rgb(255, 255, 255);
+}
+.icon-delivery .path2:before {
+  content: "\e90b";
+  margin-left: -0.8291015625em;
+  color: rgb(58, 58, 58);
+}
+.icon-delivery .path3:before {
+  content: "\e90c";
+  margin-left: -0.8291015625em;
+  color: rgb(240, 196, 46);
+}
+.icon-delivery .path4:before {
+  content: "\e90d";
+  margin-left: -0.8291015625em;
+  color: rgb(240, 197, 46);
+}
+.icon-fb:before {
+  content: "\e90e";
+  color: #fff;
+}
+.icon-filter-button .path1:before {
+  content: "\e90f";
+  color: rgb(171, 171, 171);
+  opacity: 0.3;
+}
+.icon-filter-button .path2:before {
+  content: "\e910";
+  margin-left: -0.869140625em;
+  color: rgb(255, 255, 255);
+}
+.icon-filter-button .path3:before {
+  content: "\e911";
+  margin-left: -0.869140625em;
+  color: rgb(171, 171, 171);
+}
+.icon-icon-down-dir:before {
+  content: "\e912";
+}
+.icon-icon-up-dir:before {
+  content: "\e913";
+}
+.icon-logo-html:before {
+  content: "\e914";
+  color: #ffc600;
+}
+.icon-menu-close:before {
+  content: "\e915";
+}
+.icon-modal-close:before {
+  content: "\e916";
+  color: #f0c52e;
+}
+.icon-nav-arrow:before {
+  content: "\e917";
+}
+.icon-plus:before {
+  content: "\e918";
+}
+.icon-poppular-6:before {
+  content: "\e919";
+}
+.icon-popular-1:before {
+  content: "\e91a";
+}
+.icon-popular-2:before {
+  content: "\e91b";
+}
+.icon-popular-3:before {
+  content: "\e91c";
+}
+.icon-popular-4:before {
+  content: "\e91d";
+}
+.icon-popular-5:before {
+  content: "\e91e";
+}
+.icon-radio-off:before {
+  content: "\e91f";
+}
+.icon-radio-on:before {
+  content: "\e920";
+}
+.icon-search:before {
+  content: "\e921";
+}
+.icon-slider-button-empty:before {
+  content: "\e922";
+}
+.icon-slider-button:before {
+  content: "\e923";
+}
+.icon-tick:before {
+  content: "\e924";
+}
+.icon-twitter:before {
+  content: "\e925";
+  color: #fff;
+}
+.icon-user:before {
+  content: "\e926";
+}
+.icon-vk:before {
+  content: "\e927";
+  color: #fff;
+}
+.icon-warranty .path1:before {
+  content: "\e928";
+  color: rgb(255, 255, 255);
+}
+.icon-warranty .path2:before {
+  content: "\e929";
+  margin-left: -0.876953125em;
+  color: rgb(255, 255, 255);
+}
+.icon-warranty .path3:before {
+  content: "\e92a";
+  margin-left: -0.876953125em;
+  color: rgb(58, 58, 58);
+}
+.icon-warranty .path4:before {
+  content: "\e92b";
+  margin-left: -0.876953125em;
+  color: rgb(240, 196, 46);
+}
+.icon-warranty .path5:before {
+  content: "\e92c";
+  margin-left: -0.876953125em;
+  color: rgb(58, 58, 58);
+}
+.icon-warranty .path6:before {
+  content: "\e92d";
+  margin-left: -0.876953125em;
+  color: rgb(58, 58, 58);
+}
